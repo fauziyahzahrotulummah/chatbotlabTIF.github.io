@@ -1,0 +1,659 @@
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagi" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "okr" 2>&1
+Preprocessing Output: Teks setelah casefolding: okr
+Teks setelah filtering stopwords: okr
+Teks setelah stemming: okr
+Tokens hasil tokenizing: ['okr']
+okr
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: okr
+Teks setelah filtering stopwords: okr
+Teks setelah stemming: okr
+Tokens hasil tokenizing: ['okr']
+okr" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "oke" 2>&1
+Preprocessing Output: Teks setelah casefolding: oke
+Teks setelah filtering stopwords: oke
+Teks setelah stemming: oke
+Tokens hasil tokenizing: ['oke']
+oke
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: oke
+Teks setelah filtering stopwords: oke
+Teks setelah stemming: oke
+Tokens hasil tokenizing: ['oke']
+oke" 2>&1
+KMP Output: ["Selamat tinggal! Jika Anda memiliki pertanyaan lain di masa depan, jangan ragu untuk bertanya. Semoga harimu menyenangkan!\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "pilih bayar" 2>&1
+Preprocessing Output: Teks setelah casefolding: pilih bayar
+Teks setelah filtering stopwords: pilih bayar
+Teks setelah stemming: pilih bayar
+Tokens hasil tokenizing: ['pilih', 'bayar']
+pilih bayar
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: pilih bayar
+Teks setelah filtering stopwords: pilih bayar
+Teks setelah stemming: pilih bayar
+Tokens hasil tokenizing: ['pilih', 'bayar']
+pilih bayar" 2>&1
+KMP Output: ["halo sobat tif pembayaran dapaat di lakukan dengan dengan beberapa cara                                                            1. pembayaran di Bank kampus 4 UAD                                                                           2. pembayaran selain bank BNI atau Bank lain                "]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: Error: unsupported format character 'p' (0x70) at index 183
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: hallo ada yang bisa di bantu?
+
+[{"response": "hallo ada yang bisa di bantu?\r\n"}]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "oki" 2>&1
+Preprocessing Output: Teks setelah casefolding: oki
+Teks setelah filtering stopwords: oki
+Teks setelah stemming: oki
+Tokens hasil tokenizing: ['oki']
+oki
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: oki
+Teks setelah filtering stopwords: oki
+Teks setelah stemming: oki
+Tokens hasil tokenizing: ['oki']
+oki" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat
+Teks setelah filtering stopwords: selamat
+Teks setelah stemming: selamat
+Tokens hasil tokenizing: ['selamat']
+selamat
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat
+Teks setelah filtering stopwords: selamat
+Teks setelah stemming: selamat
+Tokens hasil tokenizing: ['selamat']
+selamat" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat
+Teks setelah filtering stopwords: selamat
+Teks setelah stemming: selamat
+Tokens hasil tokenizing: ['selamat']
+selamat
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat
+Teks setelah filtering stopwords: selamat
+Teks setelah stemming: selamat
+Tokens hasil tokenizing: ['selamat']
+selamat" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagi" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat
+Teks setelah filtering stopwords: selamat
+Teks setelah stemming: selamat
+Tokens hasil tokenizing: ['selamat']
+selamat
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat
+Teks setelah filtering stopwords: selamat
+Teks setelah stemming: selamat
+Tokens hasil tokenizing: ['selamat']
+selamat" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "pagi" 2>&1
+Preprocessing Output: Teks setelah casefolding: pagi
+Teks setelah filtering stopwords: pagi
+Teks setelah stemming: pagi
+Tokens hasil tokenizing: ['pagi']
+pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: pagi
+Teks setelah filtering stopwords: pagi
+Teks setelah stemming: pagi
+Tokens hasil tokenizing: ['pagi']
+pagi" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagi min" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagi min
+Teks setelah filtering stopwords: selamat pagi min
+Teks setelah stemming: selamat pagi min
+Tokens hasil tokenizing: ['selamat', 'pagi', 'min']
+selamat pagi min
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagi min
+Teks setelah filtering stopwords: selamat pagi min
+Teks setelah stemming: selamat pagi min
+Tokens hasil tokenizing: ['selamat', 'pagi', 'min']
+selamat pagi min" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "bayar " 2>&1
+Preprocessing Output: Teks setelah casefolding: bayar 
+Teks setelah filtering stopwords: bayar 
+Teks setelah stemming: bayar
+Tokens hasil tokenizing: ['bayar']
+bayar
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: bayar 
+Teks setelah filtering stopwords: bayar 
+Teks setelah stemming: bayar
+Tokens hasil tokenizing: ['bayar']
+bayar" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara bayar bagaimana" 2>&1
+Preprocessing Output: Teks setelah casefolding: cara bayar bagaimana
+Teks setelah filtering stopwords: cara bayar bagaimana
+Teks setelah stemming: cara bayar bagaimana
+Tokens hasil tokenizing: ['cara', 'bayar', 'bagaimana']
+cara bayar bagaimana
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara bayar bagaimana
+Teks setelah filtering stopwords: cara bayar bagaimana
+Teks setelah stemming: cara bayar bagaimana
+Tokens hasil tokenizing: ['cara', 'bayar', 'bagaimana']
+cara bayar bagaimana" 2>&1
+KMP Output: ["halo sobat tif pembayaran dapaat di lakukan dengan dengan beberapa cara                                                            1. pembayaran di Bank kampus 4 UAD                                                                           2. pembayaran selain bank BNI atau Bank lain                "]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat siang min hallo" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat siang min hallo
+Teks setelah filtering stopwords: selamat siang min hallo
+Teks setelah stemming: selamat siang min hallo
+Tokens hasil tokenizing: ['selamat', 'siang', 'min', 'hallo']
+selamat siang min hallo
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat siang min hallo
+Teks setelah filtering stopwords: selamat siang min hallo
+Teks setelah stemming: selamat siang min hallo
+Tokens hasil tokenizing: ['selamat', 'siang', 'min', 'hallo']
+selamat siang min hallo" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagi" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "bye" 2>&1
+Preprocessing Output: Teks setelah casefolding: bye
+Teks setelah filtering stopwords: bye
+Teks setelah stemming: bye
+Tokens hasil tokenizing: ['bye']
+bye
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: bye
+Teks setelah filtering stopwords: bye
+Teks setelah stemming: bye
+Tokens hasil tokenizing: ['bye']
+bye" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "oke" 2>&1
+Preprocessing Output: Teks setelah casefolding: oke
+Teks setelah filtering stopwords: oke
+Teks setelah stemming: oke
+Tokens hasil tokenizing: ['oke']
+oke
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: oke
+Teks setelah filtering stopwords: oke
+Teks setelah stemming: oke
+Tokens hasil tokenizing: ['oke']
+oke" 2>&1
+KMP Output: ["Selamat tinggal! Jika Anda memiliki pertanyaan lain di masa depan, jangan ragu untuk bertanya. Semoga harimu menyenangkan!\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagi" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagi
+Teks setelah filtering stopwords: selamat pagi
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+selamat pagi" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagi min mau tanya" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagi min mau tanya
+Teks setelah filtering stopwords: selamat pagi min mau tanya
+Teks setelah stemming: selamat pagi min mau tanya
+Tokens hasil tokenizing: ['selamat', 'pagi', 'min', 'mau', 'tanya']
+selamat pagi min mau tanya
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagi min mau tanya
+Teks setelah filtering stopwords: selamat pagi min mau tanya
+Teks setelah stemming: selamat pagi min mau tanya
+Tokens hasil tokenizing: ['selamat', 'pagi', 'min', 'mau', 'tanya']
+selamat pagi min mau tanya" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara bayar praktikum bagaimana ya?" 2>&1
+Preprocessing Output: Teks setelah casefolding: cara bayar praktikum bagaimana ya?
+Teks setelah filtering stopwords: cara bayar praktikum bagaimana ya?
+Teks setelah stemming: cara bayar praktikum bagaimana ya
+Tokens hasil tokenizing: ['cara', 'bayar', 'praktikum', 'bagaimana', 'ya']
+cara bayar praktikum bagaimana ya
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara bayar praktikum bagaimana ya?
+Teks setelah filtering stopwords: cara bayar praktikum bagaimana ya?
+Teks setelah stemming: cara bayar praktikum bagaimana ya
+Tokens hasil tokenizing: ['cara', 'bayar', 'praktikum', 'bagaimana', 'ya']
+cara bayar praktikum bagaimana ya" 2>&1
+KMP Output: ["halo sobat tif pembayaran dapaat di lakukan dengan dengan beberapa cara                                                            1. pembayaran di Bank kampus 4 UAD                                                                           2. pembayaran selain bank BNI atau Bank lain                "]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "oke min" 2>&1
+Preprocessing Output: Teks setelah casefolding: oke min
+Teks setelah filtering stopwords: oke min
+Teks setelah stemming: oke min
+Tokens hasil tokenizing: ['oke', 'min']
+oke min
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: oke min
+Teks setelah filtering stopwords: oke min
+Teks setelah stemming: oke min
+Tokens hasil tokenizing: ['oke', 'min']
+oke min" 2>&1
+KMP Output: ["Selamat tinggal! Jika Anda memiliki pertanyaan lain di masa depan, jangan ragu untuk bertanya. Semoga harimu menyenangkan!\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "makasih" 2>&1
+Preprocessing Output: Teks setelah casefolding: makasih
+Teks setelah filtering stopwords: makasih
+Teks setelah stemming: makasih
+Tokens hasil tokenizing: ['makasih']
+makasih
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: makasih
+Teks setelah filtering stopwords: makasih
+Teks setelah stemming: makasih
+Tokens hasil tokenizing: ['makasih']
+makasih" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "salam" 2>&1
+Preprocessing Output: Teks setelah casefolding: salam
+Teks setelah filtering stopwords: salam
+Teks setelah stemming: salam
+Tokens hasil tokenizing: ['salam']
+salam
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: salam
+Teks setelah filtering stopwords: salam
+Teks setelah stemming: salam
+Tokens hasil tokenizing: ['salam']
+salam" 2>&1
+KMP Output: ["waalaikumsalam warrahmatullahi wabarakatuh,\r\n\r\nada yang bisa dibantu?\r\n\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hallo" 2>&1
+Preprocessing Output: Teks setelah casefolding: hallo
+Teks setelah filtering stopwords: hallo
+Teks setelah stemming: hallo
+Tokens hasil tokenizing: ['hallo']
+hallo
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hallo
+Teks setelah filtering stopwords: hallo
+Teks setelah stemming: hallo
+Tokens hasil tokenizing: ['hallo']
+hallo" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "halo" 2>&1
+Preprocessing Output: Teks setelah casefolding: halo
+Teks setelah filtering stopwords: halo
+Teks setelah stemming: halo
+Tokens hasil tokenizing: ['halo']
+halo
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: halo
+Teks setelah filtering stopwords: halo
+Teks setelah stemming: halo
+Tokens hasil tokenizing: ['halo']
+halo" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara pembayaran praktikum" 2>&1
+Preprocessing Output: Teks setelah casefolding: cara pembayaran praktikum
+Teks setelah filtering stopwords: cara pembayaran praktikum
+Teks setelah stemming: cara bayar praktikum
+Tokens hasil tokenizing: ['cara', 'bayar', 'praktikum']
+cara bayar praktikum
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara pembayaran praktikum
+Teks setelah filtering stopwords: cara pembayaran praktikum
+Teks setelah stemming: cara bayar praktikum
+Tokens hasil tokenizing: ['cara', 'bayar', 'praktikum']
+cara bayar praktikum" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara bayar praktikum bagaimana" 2>&1
+Preprocessing Output: Teks setelah casefolding: cara bayar praktikum bagaimana
+Teks setelah filtering stopwords: cara bayar praktikum bagaimana
+Teks setelah stemming: cara bayar praktikum bagaimana
+Tokens hasil tokenizing: ['cara', 'bayar', 'praktikum', 'bagaimana']
+cara bayar praktikum bagaimana
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara bayar praktikum bagaimana
+Teks setelah filtering stopwords: cara bayar praktikum bagaimana
+Teks setelah stemming: cara bayar praktikum bagaimana
+Tokens hasil tokenizing: ['cara', 'bayar', 'praktikum', 'bagaimana']
+cara bayar praktikum bagaimana" 2>&1
+KMP Output: ["halo sobat tif pembayaran dapaat di lakukan dengan dengan beberapa cara                                                            1. pembayaran di Bank kampus 4 UAD                                                                           2. pembayaran selain bank BNI atau Bank lain                "]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: 
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara membayar " 2>&1
+Preprocessing Output: Teks setelah casefolding: cara membayar 
+Teks setelah filtering stopwords: cara membayar 
+Teks setelah stemming: cara bayar
+Tokens hasil tokenizing: ['cara', 'bayar']
+cara bayar
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara membayar 
+Teks setelah filtering stopwords: cara membayar 
+Teks setelah stemming: cara bayar
+Tokens hasil tokenizing: ['cara', 'bayar']
+cara bayar" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara bayar" 2>&1
+Preprocessing Output: Teks setelah casefolding: cara bayar
+Teks setelah filtering stopwords: cara bayar
+Teks setelah stemming: cara bayar
+Tokens hasil tokenizing: ['cara', 'bayar']
+cara bayar
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara bayar
+Teks setelah filtering stopwords: cara bayar
+Teks setelah stemming: cara bayar
+Tokens hasil tokenizing: ['cara', 'bayar']
+cara bayar" 2>&1
+KMP Output: ["halo sobat tif pembayaran dapaat di lakukan dengan dengan beberapa cara                                                            1. pembayaran di Bank kampus 4 UAD                                                                           2. pembayaran selain bank BNI atau Bank lain                "]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "salam" 2>&1
+Preprocessing Output: Teks setelah casefolding: salam
+Teks setelah filtering stopwords: salam
+Teks setelah stemming: salam
+Tokens hasil tokenizing: ['salam']
+salam
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: salam
+Teks setelah filtering stopwords: salam
+Teks setelah stemming: salam
+Tokens hasil tokenizing: ['salam']
+salam" 2>&1
+KMP Output: ["waalaikumsalam warrahmatullahi wabarakatuh,\r\n\r\nada yang bisa dibantu?\r\n\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "bayar praktikum" 2>&1
+Preprocessing Output: Teks setelah casefolding: bayar praktikum
+Teks setelah filtering stopwords: bayar praktikum
+Teks setelah stemming: bayar praktikum
+Tokens hasil tokenizing: ['bayar', 'praktikum']
+bayar praktikum
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: bayar praktikum
+Teks setelah filtering stopwords: bayar praktikum
+Teks setelah stemming: bayar praktikum
+Tokens hasil tokenizing: ['bayar', 'praktikum']
+bayar praktikum" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "cara bayar" 2>&1
+Preprocessing Output: Teks setelah casefolding: cara bayar
+Teks setelah filtering stopwords: cara bayar
+Teks setelah stemming: cara bayar
+Tokens hasil tokenizing: ['cara', 'bayar']
+cara bayar
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: cara bayar
+Teks setelah filtering stopwords: cara bayar
+Teks setelah stemming: cara bayar
+Tokens hasil tokenizing: ['cara', 'bayar']
+cara bayar" 2>&1
+KMP Output: ["halo sobat tif pembayaran dapaat di lakukan dengan dengan beberapa cara                                                            1. pembayaran di Bank kampus 4 UAD                                                                           2. pembayaran selain bank BNI atau Bank lain                "]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "hi" 2>&1
+Preprocessing Output: Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hasil corrected_token: hai
+hai
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: hi
+Teks setelah filtering stopwords: hi
+Teks setelah stemming: hi
+Tokens hasil tokenizing: ['hi']
+hasil corrected_token: hai
+hai" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat malem" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat malem
+Teks setelah filtering stopwords: selamat malem
+Teks setelah stemming: selamat malem
+Tokens hasil tokenizing: ['selamat', 'malem']
+hasil corrected_token: selamat
+hasil corrected_token: malam
+selamat malam
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat malem
+Teks setelah filtering stopwords: selamat malem
+Teks setelah stemming: selamat malem
+Tokens hasil tokenizing: ['selamat', 'malem']
+hasil corrected_token: selamat
+hasil corrected_token: malam
+selamat malam" 2>&1
+KMP Output: []
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat pagii" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat pagii
+Teks setelah filtering stopwords: selamat pagii
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+hasil corrected_token: selamat
+hasil corrected_token: pagi
+selamat pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat pagii
+Teks setelah filtering stopwords: selamat pagii
+Teks setelah stemming: selamat pagi
+Tokens hasil tokenizing: ['selamat', 'pagi']
+hasil corrected_token: selamat
+hasil corrected_token: pagi
+selamat pagi" 2>&1
+KMP Output: ["hallo ada yang bisa di bantu?\r\n"]
+
+Preprocessing Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\preprocessing.py" "selamat paagi" 2>&1
+Preprocessing Output: Teks setelah casefolding: selamat paagi
+Teks setelah filtering stopwords: selamat paagi
+Teks setelah stemming: selamat paagi
+Tokens hasil tokenizing: ['selamat', 'paagi']
+hasil corrected_token: selamat
+hasil corrected_token: pagi
+selamat pagi
+
+KMP Command: "C:\Users\fauziyah_ummah\Anaconda3\python.exe" "C:\xampp\htdocs\chatbot\kmp.py" "Teks setelah casefolding: selamat paagi
+Teks setelah filtering stopwords: selamat paagi
+Teks setelah stemming: selamat paagi
+Tokens hasil tokenizing: ['selamat', 'paagi']
+hasil corrected_token: selamat
+hasil corrected_token: pagi
+selamat pagi" 2>&1
+KMP Output: []
+
